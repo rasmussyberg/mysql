@@ -1,4 +1,8 @@
 {
+  "mysql8": {
+    "database": "db_migrate_test",
+    "user": "root"
+  },
   "mysql": {
     "database": "db_migrate_test",
     "user": "root"

@@ -1,6 +1,6 @@
 {
   "name": "db-migrate-mysql8",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "db-migrate mysql 8.0.* driver",
   "main": "index.js",
   "scripts": {
@@ -29,8 +29,9 @@
   "dependencies": {
     "bluebird": "^3.7.2",
     "db-migrate-base": "^2.3.0",
-    "moment": "^2.28.0",
-    "mysql2": "^2.1.0"
+    "lodash.omit": "^4.5.0",
+    "moment": "^2.29.1",
+    "mysql2": "^2.2.5"
   },
   "devDependencies": {
     "@hapi/code": "^8.0.2",

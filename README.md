@@ -1,7 +1,4 @@
-[![Build Status](https://travis-ci.org/db-migrate/mysql.svg?branch=master)](https://travis-ci.org/db-migrate/mysql)
-[![Dependency Status](https://david-dm.org/db-migrate/mysql.svg)](https://david-dm.org/db-migrate/mysql)
-[![devDependency Status](https://david-dm.org/db-migrate/mysql/dev-status.svg)](https://david-dm.org/db-migrate/mysql#info=devDependencies)
+# mysql8
+db-migrate MySQL 8 driver
 
-
-# mysql
-db-migrate mysql driver
+Supports MySQL v5.* and 8.0.*
